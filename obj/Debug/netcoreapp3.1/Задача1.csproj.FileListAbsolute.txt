@@ -1,0 +1,13 @@
+C:\Users\Konstantin\source\repos\Задача1\bin\Debug\netcoreapp3.1\Задача1.exe
+C:\Users\Konstantin\source\repos\Задача1\bin\Debug\netcoreapp3.1\Задача1.deps.json
+C:\Users\Konstantin\source\repos\Задача1\bin\Debug\netcoreapp3.1\Задача1.runtimeconfig.json
+C:\Users\Konstantin\source\repos\Задача1\bin\Debug\netcoreapp3.1\Задача1.runtimeconfig.dev.json
+C:\Users\Konstantin\source\repos\Задача1\bin\Debug\netcoreapp3.1\Задача1.dll
+C:\Users\Konstantin\source\repos\Задача1\bin\Debug\netcoreapp3.1\Задача1.pdb
+C:\Users\Konstantin\source\repos\Задача1\obj\Debug\netcoreapp3.1\Задача1.AssemblyInfoInputs.cache
+C:\Users\Konstantin\source\repos\Задача1\obj\Debug\netcoreapp3.1\Задача1.AssemblyInfo.cs
+C:\Users\Konstantin\source\repos\Задача1\obj\Debug\netcoreapp3.1\Задача1.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\Задача1\obj\Debug\netcoreapp3.1\Задача1.dll
+C:\Users\Konstantin\source\repos\Задача1\obj\Debug\netcoreapp3.1\Задача1.pdb
+C:\Users\Konstantin\source\repos\Задача1\obj\Debug\netcoreapp3.1\Задача1.genruntimeconfig.cache
+C:\Users\Konstantin\source\repos\Задача1\obj\Debug\netcoreapp3.1\Задача1.csprojAssemblyReference.cache
